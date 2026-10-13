@@ -79,3 +79,6 @@ clients/validator_node_grpc_client/package-lock.json
 scripts/__pycache__/
 # CocoIndex Code (ccc)
 /.cocoindex_code/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
