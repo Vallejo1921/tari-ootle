@@ -1,0 +1,33 @@
+{
+  "default_branch": "development",
+  "branches": [
+    "build-bins-notary-test",
+    "development",
+    "docs/access-rules-owner-bypass-2846",
+    "fix/canonical-certificate-encoding-2839",
+    "fix/peersync-verify-records-2843",
+    "fix/pledge-map-comment-key-2845",
+    "fix/template-address-verification-2847",
+    "origin"
+  ],
+  "parent": {
+    "build-bins-notary-test": "development",
+    "development": null,
+    "docs/access-rules-owner-bypass-2846": "development",
+    "fix/canonical-certificate-encoding-2839": "development",
+    "fix/peersync-verify-records-2843": "development",
+    "fix/pledge-map-comment-key-2845": "development",
+    "fix/template-address-verification-2847": "development",
+    "origin": "development"
+  },
+  "order": [
+    "development",
+    "build-bins-notary-test",
+    "docs/access-rules-owner-bypass-2846",
+    "fix/canonical-certificate-encoding-2839",
+    "fix/peersync-verify-records-2843",
+    "fix/pledge-map-comment-key-2845",
+    "fix/template-address-verification-2847",
+    "origin"
+  ]
+}
